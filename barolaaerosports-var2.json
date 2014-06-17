@@ -13,11 +13,6 @@
   "app_splashscreen":"self-splash.png",
   "app_splashscreen_time":"2014-05-04 19:51:04",
   "published":true,
-  "ad_url":"",
-  "interstitial_ad_url":"",
-  "ads_on":"0",
-  "ad_code":"",
-  "ad_refresh":"0",
   "interstitial_ad_pages":4,
   "140proof_ads_on":true,
   "app_title":"Barola aero sports",
@@ -56,10 +51,6 @@
   "app_link":"http:\/\/teamapp.mobi\/barolaaerosports",
   "app_homepage":"http:\/\/teamapp.mobi\/barolaaerosports",
   "keywords":"aero space",
-  "socialize_consumer_key":"bd971322-61a-431a-a32f-7792ca591301",
-  "socialize_consumer_secret":"d415ee0-9481-44b8-8f68-4b6759bfaf9b",
-  "socialize_enabled":"0",
-  "socialize_appid":"5128",
   "pages":{
     "1797968":{
       "on":true,
