@@ -1,0 +1,179 @@
+{
+  "generated":"2014-06-15 23:22:17",
+  "config_file_url":"http:\/\/github\/userfiles\/barolaaerosports-var2.json",
+  "app_version":4,
+  "app_id":"101237167",
+  "project_title":"barolaaerosports",
+  "show_title":"text",
+  "header_text":"Barola aero sports",
+  "header_file":"101237167-title.png",
+  "header_file_time":"Mon, 16 Jun 2014 03:22:19 GMT",
+  "market_identifier":"com.im.fantastic.barolaaerosports",
+  "market_identifier_android":"com.ima.fantastic.barolaaerosports",
+  "app_splashscreen":"self-splash.png",
+  "app_splashscreen_time":"2014-05-04 19:51:04",
+  "published":true,
+  "ad_url":"",
+  "interstitial_ad_url":"",
+  "ads_on":"0",
+  "ad_code":"",
+  "ad_refresh":"0",
+  "interstitial_ad_pages":4,
+  "140proof_ads_on":true,
+  "app_title":"Barola aero sports",
+  "icon":"101237167-icon.png",
+  "icon_time":"2014-06-16 02:47:49",
+  "homepage_background":"101237167-background.jpg",
+  "homepage_background_time":"2014-06-16 03:19:39",
+  "homepage_subhead":null,
+  "secret_word":"",
+  "privacy_message":"",
+  "gender":"male",
+  "region":" Asia",
+  "country":"IN",
+  "state":"State of Andhra Pradesh",
+  "geo":"16,79",
+  "postal":"517501",
+  "email":"venkat.kamesh90@gmail.com",
+  "contact_name":"venkat kamesh",
+  "flurry_key":"D33N7WT3ZCFPNA13VBV",
+  "admarvel_id":"17106",
+  "admarvel_big_id":"17106",
+  "admarvel_id_ios":"17107",
+  "admarvel_big_id_ios":"17107",
+  "col_accent":null,
+  "col_back":"#ffffff",
+  "col_text":"#000000",
+  "col_title":"#000055",
+  "bg_opacity":"0.50",
+  "icon_scale":"1.0",
+  "moreinfo_url":"https:\/\/www.facebook.com\/Barolaaero",
+  "message_url":"",
+  "about_us_url":"http:\/\/barolaaerosports.com\/barolaae\/wordpress\/?page_id=36",
+  "feedback_url":"https:\/\/www.facebook.com\/kvk.k1",
+  "help_url":"http:\/\/barolaaerosports.com\/aerosports\/barola_contact.htm",
+  "recommended_apps_url":"",
+  "app_link":"http:\/\/teamapp.mobi\/barolaaerosports",
+  "app_homepage":"http:\/\/teamapp.mobi\/barolaaerosports",
+  "keywords":"aero space",
+  "socialize_consumer_key":"bd971322-61a-431a-a32f-7792ca591301",
+  "socialize_consumer_secret":"d415ee0-9481-44b8-8f68-4b6759bfaf9b",
+  "socialize_enabled":"0",
+  "socialize_appid":"5128",
+  "pages":{
+    "1797968":{
+      "on":true,
+      "name":"websites",
+      "title":"Science Bazz",
+      "icon":"101237167-1797968-moduleicon.jpg",
+      "icon_time":"2014-06-16 02:28:16",
+      "order":"2",
+      "image":"self-bg.png",
+      "image_time":"2014-06-16 02:29:36",
+      "data":{
+        "web_links":[
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Welcome to science bazzar",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/barolaae\/wordpress\/"
+          }
+        ]
+      }
+    },
+    "1797971":{
+      "on":true,
+      "name":"websites",
+      "title":"Aero space",
+      "icon":"101237167-1797971-moduleicon.png",
+      "icon_time":"2014-06-16 02:31:19",
+      "order":"9",
+      "image":"self-bg.png",
+      "image_time":"2014-06-16 02:32:12",
+      "data":{
+        "web_links":[
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Select the apllication you need",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/aerosports\/aero_club.html"
+          }
+        ]
+      }
+    },
+    "1797983":{
+      "on":true,
+      "name":"websites",
+      "title":"Tech tool ",
+      "icon":"101237167-1797983-moduleicon.png",
+      "icon_time":"2014-06-16 02:34:18",
+      "order":"16",
+      "image":"self-bg.png",
+      "image_time":"2014-06-16 02:34:48",
+      "data":{
+        "web_links":[
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Welcome to tech tool shop ",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/techtoolshop\/index.html"
+          }
+        ]
+      }
+    },
+    "1797986":{
+      "on":true,
+      "name":"videos",
+      "title":"Videos",
+      "icon":"videos0.png",
+      "icon_time":"2014-06-16 02:37:09",
+      "order":"115",
+      "image":"self-bg.png",
+      "image_time":"2014-06-16 02:37:44",
+      "data":{
+        "video":{
+          "type":"rss",
+          "value":"UCfp-ug-iY2jtotFgLKzeCQA"
+        }
+      }
+    },
+    "1797987":{
+      "on":true,
+      "name":"contacts",
+      "title":"Contacts ",
+      "icon":"contacts0.png",
+      "icon_time":"2014-06-16 02:38:02",
+      "order":"121",
+      "image":"self-bg.png",
+      "image_time":"2014-06-16 02:44:29",
+      "data":{
+        "contacts":[
+          {
+            "name":"Suresh Barola",
+            "address":"No: 27-C\/11, Soundarrajan Street, (near TTD Temple),  T.Nagar, Chennai 600 017. INDIA.",
+            "phone":"91-99402-33311",
+            "email":"info@barolaaerosports.com"
+          }
+        ]
+      }
+    }
+  },
+  "userfiles":[
+    "101237167-title.png",
+    "self-splash.png",
+    "101237167-icon.png",
+    "101237167-background.jpg",
+    "101237167-1797968-moduleicon.jpg",
+    "self-bg.png",
+    "101237167-1797971-moduleicon.png",
+    "101237167-1797983-moduleicon.png",
+    "videos0.png",
+    "contacts0.png"
+  ]
+}
