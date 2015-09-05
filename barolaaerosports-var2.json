@@ -67,94 +67,13 @@
             "backgroundColor":"transparent",
             "color":"#000",
             "hasChild":true,
-            "title":"Welcome to Barola Groups",
+            "title":"Click here to update the application",
             "external":"0",
-            "link":"http:\/\/barolaaerosports.com\/"
+            "link":"https:\/\/www.androidfilehost.com\/?fid=24052804347808856\/"
           }
         ]
       }
     },
-    "1797971":{
-      "on":true,
-      "name":"websites",
-      "title":"Work Shop",
-      "icon":"101237167-1797983-moduleicon.png",
-      "icon_time":"2014-06-16 02:31:19",
-      "order":"9",
-      "image":"self-bg.png",
-      "image_time":"2014-06-16 02:32:12",
-      "data":{
-        "web_links":[
-          {
-            "backgroundColor":"transparent",
-            "color":"#000",
-            "hasChild":true,
-            "title":"Select the apllication you need",
-            "external":"0",
-            "link":"http:\/\/barolaaerosports.com\/workshop.html"
-          }
-        ]
-      }
-    },
-    "1797983":{
-      "on":true,
-      "name":"websites",
-      "title":"Tech tool ",
-      "icon":"101237167-1797983-moduleicon.png",
-      "icon_time":"2014-06-16 02:34:18",
-      "order":"16",
-      "image":"self-bg.png",
-      "image_time":"2014-06-16 02:34:48",
-      "data":{
-        "web_links":[
-          {
-            "backgroundColor":"transparent",
-            "color":"#000",
-            "hasChild":true,
-            "title":"Welcome to tech tool shop ",
-            "external":"0",
-            "link":"http:\/\/www.techtoolshop.in\/"
-          }
-        ]
-      }
-    },
-    "1797986":{
-      "on":true,
-      "name":"videos",
-      "title":"Videos",
-      "icon":"videos0.png",
-      "icon_time":"2014-06-16 02:37:09",
-      "order":"115",
-      "image":"self-bg.png",
-      "image_time":"2014-06-16 02:37:44",
-      "data":{
-        "video":{
-          "type":"rss",
-          "value":"UCfp-ug-iY2jtotFgLKzeCQA"
-        }
-      }
-    },
-    "1797987":{
-      "on":true,
-      "name":"contacts",
-      "title":"Contacts ",
-      "icon":"contacts0.png",
-      "icon_time":"2014-06-16 02:38:02",
-      "order":"121",
-      "image":"self-bg.png",
-      "image_time":"2014-06-16 02:44:29",
-      "data":{
-        "contacts":[
-          {
-            "name":"Suresh Barola",
-            "address":"No: 27-C\/11, Soundarrajan Street, (near TTD Temple),  T.Nagar, Chennai 600 017. INDIA.",
-            "phone":"91-99402-33311",
-            "email":"info@barolaaerosports.com"
-          }
-        ]
-      }
-    }
-  },
   "userfiles":[
     "101237167-title.png",
     "self-splash.png",
