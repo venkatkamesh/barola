@@ -1,0 +1,366 @@
+{
+  "generated":"2015-08-20 00:20:14",
+  "config_file_url":"https:\/\/raw.githubusercontent.com\/venkatkamesh\/barola\/master\/barolagroups-var3.json",
+  "app_version":6,
+  "app_id":"101237167",
+  "project_title":"barolaaerosports",
+  "show_title":"text",
+  "header_text":"Barola Group ISO 9001:2008",
+  "header_file":"101237167-title.png",
+  "market_identifier":"com.im.fantastic.barolaaerosports",
+  "market_identifier_android":"com.venkat.kamesh.barolagroup",
+  "app_splashscreen":"self-splash.png",
+  "app_splashscreen_time":"2014-05-04 19:51:04",
+  "published":true,
+  "publish_type":"0",
+  "ad_url":"",
+  "interstitial_ad_url":"",
+  "ads_on":"0",
+  "ad_code":"",
+  "head_tags":"",
+  "ad_refresh":"0",
+  "interstitial_ad_pages":4,
+  "140proof_ads_on":true,
+  "app_title":"Barola Group ISO 9001:2008",
+  "icon":"101237167-icon.png",
+  "icon_time":"2014-06-16 02:47:49",
+  "homepage_background":"101237167-background.jpg",
+  "homepage_background_time":"2014-06-16 03:19:39",
+  "homepage_subhead":null,
+  "secret_word":"",
+  "privacy_message":"",
+  "gender":"male",
+  "description":"barola group",
+  "region":"6255149",
+  "country":"6252001",
+  "state":"5101760",
+  "geo":",",
+  "postal":"517501",
+  "email":"venkat.kamesh90@gmail.com",
+  "contact_name":"venkat kamesh",
+  "flurry_key":"D33N7WT3ZCFWPNA13VBV",
+  "admarvel_id":"17106",
+  "admarvel_big_id":"17106",
+  "admarvel_id_ios":"17107",
+  "admarvel_big_id_ios":"17107",
+  "col_accent":null,
+  "col_back":"#ffffff",
+  "col_text":"#000000",
+  "col_title":"#000055",
+  "bg_opacity":"0.50",
+  "icon_scale":"1.0",
+  "moreinfo_url":"https:\/\/www.facebook.com\/Barolaaero",
+  "message_url":"https:\/\/raw.githubusercontent.com\/venkatkamesh\/barola\/master\/message1.txt",
+  "about_us_url":"http:\/\/kameshbas123.blogspot.in\/",
+  "feedback_url":"https:\/\/www.facebook.com\/kvk.k1",
+  "help_url":"http:\/\/barolaaerosports.com\/aerosports\/barola_contact.htm",
+  "recommended_apps_url":"",
+  "app_link":"",
+  "app_homepage":"",
+  "keywords":"aero space",
+  "addons":[
+    
+  ],
+  "safebrowsing_porn":false,
+  "safebrowsing_malware":false,
+  "socialize_consumer_key":"bd971322-610a-431a-a32f-7792ca591301",
+  "socialize_consumer_secret":"d415e3e0-9481-44b8-8f68-4b6759bfaf9b",
+  "socialize_enabled":"1",
+  "socialize_appid":"512098",
+  "pages":{
+    "1797968":{
+      "on":true,
+      "name":"websites",
+      "title":"About barola group",
+      "icon":"101237167-1797968-icon.png",
+      "icon_time":"2015-08-19 17:48:45",
+      "order":"2",
+      "image":"self-bg.png",
+      "image_time":"2014-06-16 02:29:36",
+      "data":{
+        "web_links":[
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Company",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/aboutus.html"
+          },
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"People",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/aboutus.html"
+          },
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Advisory Board",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/aboutus.html"
+          },
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Accolades",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/aboutus.html"
+          },
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Associates and Clients",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/clients.html"
+          }
+        ]
+      }
+    },
+    "1797971":{
+      "on":true,
+      "name":"websites",
+      "title":"Govt.Cert Course",
+      "icon":"101237167-1797971-icon.png",
+      "icon_time":"2015-08-19 17:52:51",
+      "order":"8",
+      "image":"self-bg.png",
+      "image_time":"2014-06-16 02:32:12",
+      "data":{
+        "web_links":[
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Government Certified Courses ",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/programs.html"
+          }
+        ]
+      }
+    },
+    "1797983":{
+      "on":true,
+      "name":"websites",
+      "title":"WorkShop ",
+      "icon":"101237167-1797983-icon.png",
+      "icon_time":"2015-08-19 17:56:25",
+      "order":"15",
+      "image":"self-bg.png",
+      "image_time":"2014-06-16 02:34:48",
+      "data":{
+        "web_links":[
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"UAV",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/workshop.html"
+          },
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Fuel Cell",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/fuel.html"
+          },
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Under Water System",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/underwater.html"
+          }
+        ]
+      }
+    },
+    "4492079":{
+      "on":true,
+      "name":"websites",
+      "title":"Projects",
+      "icon":"101237167-4492079-icon.png",
+      "icon_time":"2015-08-19 17:58:15",
+      "order":"82",
+      "image":"101237167-background.jpg",
+      "image_time":"2015-08-19 17:42:46",
+      "data":{
+        "web_links":[
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Engineering",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/projects.html"
+          },
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Diploma",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/projects.html"
+          }
+        ]
+      }
+    },
+    "4492182":{
+      "on":true,
+      "name":"websites",
+      "title":"Inplant",
+      "icon":"101237167-4492182-icon.png",
+      "icon_time":"2015-08-19 17:59:55",
+      "order":"88",
+      "image":"101237167-background.jpg",
+      "image_time":"2015-08-19 17:59:59",
+      "data":{
+        "web_links":[
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Inplant Training",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/training.html"
+          }
+        ]
+      }
+    },
+    "4492200":{
+      "on":true,
+      "name":"websites",
+      "title":"TechTools",
+      "icon":"101237167-4492200-icon.png",
+      "icon_time":"2015-08-19 18:03:33",
+      "order":"95",
+      "image":"101237167-background.jpg",
+      "image_time":"2015-08-19 18:01:24",
+      "data":{
+        "web_links":[
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Tech Tool Shop",
+            "external":"0",
+            "link":"http:\/\/www.techtoolshop.in\/"
+          }
+        ]
+      }
+    },
+    "1797986":{
+      "on":true,
+      "name":"videos",
+      "title":"Videos",
+      "icon":"101237167-1797986-icon.png",
+      "icon_time":"2015-08-19 18:04:37",
+      "order":"146",
+      "image":"self-bg.png",
+      "image_time":"2014-06-16 02:37:44",
+      "data":{
+        "video":{
+          "type":"rss",
+          "value":"UCfp-ug-iY2jtotFgLKzeCQA"
+        }
+      }
+    },
+    "4492223":{
+      "on":true,
+      "name":"websites",
+      "title":"Gallery",
+      "icon":"101237167-4492223-icon.png",
+      "icon_time":"2015-08-19 18:06:00",
+      "order":"152",
+      "image":"101237167-background.jpg",
+      "image_time":"2015-08-19 18:05:19",
+      "data":{
+        "web_links":[
+          {
+            "backgroundColor":"transparent",
+            "color":"#000",
+            "hasChild":true,
+            "title":"Gallery",
+            "external":"0",
+            "link":"http:\/\/barolaaerosports.com\/gallery.html"
+          }
+        ]
+      }
+    },
+    "4492236":{
+      "on":true,
+      "name":"facebook",
+      "title":"Facebook",
+      "icon":"101237167-4492236-icon.png",
+      "icon_time":"2015-08-19 18:07:04",
+      "order":"159",
+      "image":"101237167-background.jpg",
+      "image_time":"2015-08-19 18:08:32",
+      "data":{
+        "facebook_feeds":[
+          "https:\/\/www.facebook.com\/Barolaaero"
+        ]
+      }
+    },
+    "4492239":{
+      "on":true,
+      "name":"twitter",
+      "title":"Twitter",
+      "icon":"101237167-4492239-icon.png",
+      "icon_time":"2015-08-19 18:08:49",
+      "order":"229",
+      "image":"101237167-background.jpg",
+      "image_time":"2015-08-19 18:08:08",
+      "data":{
+        "twitter_feeds":[
+          "@Barolaaerosport"
+        ]
+      }
+    },
+    "1797987":{
+      "on":true,
+      "name":"contacts",
+      "title":"Contacts ",
+      "icon":"101237167-1797987-icon.png",
+      "icon_time":"2015-08-19 18:09:27",
+      "order":"235",
+      "image":"self-bg.png",
+      "image_time":"2014-06-16 02:44:29",
+      "data":{
+        "contacts":[
+          {
+            "name":"barola group",
+            "address":"No: 27-C\/11, Soundarrajan Street, (near TTD Temple),  T.Nagar, Chennai 600 017. INDIA.",
+            "phone":"+91-91761-73061",
+            "email":"info@barolaaerosports.com"
+          }
+        ]
+      }
+    }
+  },
+  "userfiles":[
+    "101237167-title.png",
+    "self-splash.png",
+    "101237167-icon.png",
+    "101237167-background.jpg",
+    "101237167-1797968-icon.png",
+    "self-bg.png",
+    "101237167-1797971-icon.png",
+    "101237167-1797983-icon.png",
+    "101237167-4492079-icon.png",
+    "101237167-4492182-icon.png",
+    "101237167-4492200-icon.png",
+    "101237167-1797986-icon.png",
+    "101237167-4492223-icon.png",
+    "101237167-4492236-icon.png",
+    "101237167-4492239-icon.png",
+    "101237167-1797987-icon.png"
+  ]
+}
